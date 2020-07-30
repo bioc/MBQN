@@ -1,5 +1,9 @@
 Package: MBQN
+<<<<<<< HEAD
 Version: 2.0.2
+=======
+Version: 2.1.3
+>>>>>>> cef3169... matrix with row names is returned by mbqn()
 Title: Mean/Median-balanced quantile normalization
 Authors@R: c(person("Ariane", "Schad",
   email = "ariane.schad@fdm.uni-freiburg.de",
